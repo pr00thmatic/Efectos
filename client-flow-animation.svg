@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="273.55275"
-     inkscape:cy="-824.03631"
+     inkscape:zoom="0.125"
+     inkscape:cx="287.26652"
+     inkscape:cy="470.98742"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,13 +52,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#ffffff;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.51724135000000004;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect4006"
-       width="1408.5566"
-       height="896.61139"
-       x="-1776.2522"
-       y="1377.6313" />
     <text
        transform="matrix(1,0,-0.57735027,1,0,0)"
        sodipodi:linespacing="125%"
@@ -66,7 +59,10 @@
        y="1589.4655"
        x="2655.3779"
        style="font-size:56.07313537999999653px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6f6f6f;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          y="1589.4655"
          x="2655.3779"
          id="tspan5373"
@@ -78,7 +74,10 @@
        y="1589.4655"
        x="1533.3781"
        style="font-size:56.07313537999999653px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6f6f6f;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          y="1589.4655"
          x="1533.3781"
          id="tspan5357"
@@ -88,7 +87,10 @@
        inkscape:connector-curvature="0"
        id="path4773-0"
        d="m -277.09476,1409.7747 0.0212,-103.0938 -119.05238,103.0937 37.59365,10e-5 -52.80948,91.4687 43.84385,-10e-5 52.80948,-91.4687 z"
-       style="fill:#ff2a2a;fill-opacity:1;stroke:#ff8080;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
@@ -96,7 +98,10 @@
        y="1938.3239"
        id="text4767"
        sodipodi:linespacing="125%"
-       transform="matrix(1,0,-0.57735027,1,0,0)"><tspan
+       transform="matrix(1,0,-0.57735027,1,0,0)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="-319.35745"
          y="1938.3239"
@@ -110,7 +115,10 @@
        inkscape:connector-curvature="0"
        id="path4773"
        d="m -1340.9915,1778.0164 -137.4461,59.5 68.7234,59.5312 21.7048,-37.5937 91.4687,0 25.3132,-43.8438 -91.4687,0 z"
-       style="fill:#ff2a2a;fill-opacity:1;stroke:#ff8080;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g3799"
        transform="translate(-290,-302)">
@@ -787,7 +795,10 @@
        y="2004.1279"
        x="-1024.042"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          id="tspan4765"
          y="2004.1279"
          x="-1024.042"
@@ -811,20 +822,29 @@
        x="328.36307"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"
-       transform="matrix(1,0,-0.57735027,1,0,0)"><tspan
+       transform="matrix(1,0,-0.57735027,1,0,0)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          y="1927.0101"
          x="328.36307"
          sodipodi:role="line"
          id="tspan4777">Avel</tspan></text>
     <path
-       style="fill:#2ec12f;fill-opacity:1;stroke:#80ff85;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#2ec12f;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m -690.61345,1766.7027 68.74138,59.5 -137.4641,59.5312 21.70476,-37.5937 -91.46875,0 25.3132,-43.8438 91.46875,0 z"
        id="path4779"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g4835"
-       transform="translate(-1510.3801,1244.5079)">
+       transform="translate(-1510.3801,1244.5079)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <use
          height="1052.3622"
          width="744.09448"
@@ -844,7 +864,10 @@
     </g>
     <g
        id="g4822"
-       transform="translate(-1583.9192,1244.5079)">
+       transform="translate(-1583.9192,1244.5079)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g4800"
          transform="matrix(-1,0,0,1,1025.2507,-74)">
@@ -923,13 +946,19 @@
       </g>
     </g>
     <path
-       style="fill:#2ec12f;fill-opacity:1;stroke:#80ff85;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#2ec12f;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 317.9265,1705.6102 68.7414,59.5 -137.4641,59.5312 21.70476,-37.5937 -91.46875,0 25.3132,-43.8438 91.46875,0 z"
        id="path4779-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
-       id="g5447">
+       id="g5447"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="fill:#cccccc;fill-opacity:1;stroke:#999999;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
          d="m -428.76443,1604.8954 -163.12123,281.464 655.50273,0 161.8854,-281.464 z"
@@ -1141,17 +1170,23 @@
       </g>
     </g>
     <path
-       style="fill:#ff2a2a;fill-opacity:1;stroke:#ff8080;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 736.16007,1409.7747 0.0212,-103.0938 -119.05238,103.0937 37.59365,10e-5 -52.80948,91.4687 43.84385,-10e-5 52.80948,-91.4687 z"
        id="path5169"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#999999;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
        d="m 539.23557,1604.8954 -163.12123,281.464 1331.49686,0 161.8854,-281.464 z"
        id="path5171"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:56.07313538px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1159,7 +1194,10 @@
        y="1942.3118"
        id="text5173"
        sodipodi:linespacing="125%"
-       transform="matrix(1,0,-0.57735027,1,0,0)"><tspan
+       transform="matrix(1,0,-0.57735027,1,0,0)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5175"
          x="2084.9905"
@@ -1170,7 +1208,10 @@
        x="1120.8621"
        y="2006.9563"
        id="text5177"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          id="tspan5183"
          sodipodi:role="line"
          x="1120.8621"
@@ -1188,10 +1229,16 @@
        inkscape:connector-curvature="0"
        id="path5185"
        d="m 1950.6069,1705.6102 68.7414,59.5 -137.4641,59.5312 21.7048,-37.5937 -91.4688,0 25.3132,-43.8438 91.4688,0 z"
-       style="fill:#2ec12f;fill-opacity:1;stroke:#80ff85;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#2ec12f;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g5254"
-       transform="translate(-11.61776,0)">
+       transform="translate(-11.61776,0)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="path5244"
@@ -1215,7 +1262,10 @@
     </g>
     <g
        transform="translate(-150.11357,0)"
-       id="g5269">
+       id="g5269"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-72.124892,-1.4142136)"
          id="g5271">
@@ -1243,7 +1293,10 @@
     </g>
     <g
        id="g5293"
-       transform="translate(385.88643,0)">
+       transform="translate(385.88643,0)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g5295"
          transform="translate(-72.124892,-1.4142136)">
@@ -1276,10 +1329,16 @@
        id="use5303"
        transform="translate(1397.7199,1789.9483)"
        width="744.09448"
-       height="1052.3622" />
+       height="1052.3622"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        transform="translate(933.88643,0)"
-       id="g5323">
+       id="g5323"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-72.124892,-1.4142136)"
          id="g5325">
@@ -1320,7 +1379,10 @@
        id="use5303-2"
        transform="matrix(-1,0,0,1,849.05176,1580.5844)"
        width="744.09448"
-       height="1052.3622" />
+       height="1052.3622"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <use
        height="1052.3622"
        width="744.09448"
@@ -1328,7 +1390,10 @@
        id="use5353"
        xlink:href="#g4605"
        y="0"
-       x="0" />
+       x="0"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:56.07313537999999653px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00c303;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1336,7 +1401,10 @@
        y="1589.4655"
        id="text5359"
        sodipodi:linespacing="125%"
-       transform="matrix(1,0,-0.57735027,1,0,0)"><tspan
+       transform="matrix(1,0,-0.57735027,1,0,0)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5361"
          x="1825.3781"
@@ -1348,7 +1416,10 @@
        y="1589.4655"
        x="2097.3779"
        style="font-size:56.07313537999999653px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6f6f6f;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          y="1589.4655"
          x="2097.3779"
          id="tspan5365"
@@ -1360,14 +1431,20 @@
        y="1589.4655"
        id="text5367"
        sodipodi:linespacing="125%"
-       transform="matrix(1,0,-0.57735027,1,0,0)"><tspan
+       transform="matrix(1,0,-0.57735027,1,0,0)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5369"
          x="2379.3779"
          y="1589.4655">4</tspan></text>
     <g
        id="g5480"
-       transform="translate(2716,0)">
+       transform="translate(2716,0)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -1420,7 +1497,10 @@
     </g>
     <g
        transform="translate(1092.3839,1195.4408)"
-       id="g4955-6">
+       id="g4955-6"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <use
          x="0"
          y="0"
@@ -1464,7 +1544,10 @@
     </g>
     <g
        id="g5593"
-       transform="translate(1168.7514,1195.4408)">
+       transform="translate(1168.7514,1195.4408)"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <use
          x="0"
          y="0"
@@ -1498,20 +1581,14 @@
          y="0"
          x="0" />
     </g>
-    <g
-       id="g4008">
-      <rect
-         y="1462.1417"
-         x="-1677.2572"
-         height="747.38971"
-         width="1207.804"
-         id="rect3224"
-         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.51724135;stroke-dasharray:none;stroke-dashoffset:0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect3994"
-         d="m -1629.6871,1505.2647 a 6.22503,6.2327508 0 0 0 -6.2244,6.2321 l 0,88.1456 12.4488,0 0,-81.9135 132.8523,0 0,-12.4642 -139.0767,0 z m 973.57518,0 0,12.4642 132.85219,0 0,81.9135 12.44881,0 0,-88.1456 a 6.22503,6.2327508 0 0 0 -6.22441,-6.2321 l -139.07659,0 z m -979.79958,566.7729 0,88.1456 a 6.22503,6.2327508 0 0 0 6.2244,6.2321 l 139.0767,0 0,-12.4642 -132.8523,0 0,-81.9135 -12.4488,0 z m 1112.65177,0 0,81.9135 -132.85219,0 0,12.4642 139.07659,0 a 6.22503,6.2327508 0 0 0 6.22441,-6.2321 l 0,-88.1456 -12.44881,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:0.51724135;stroke:none;stroke-width:10.00000095;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    </g>
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path4012"
+       d="m 2460.1601,1409.7747 0.021,-103.0938 -119.0524,103.0937 37.5936,10e-5 -52.8094,91.4687 43.8438,-10e-5 52.8095,-91.4687 z"
+       style="fill:#ff2a2a;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/vg/Project/Efectos/full.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
