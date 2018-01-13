@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="client-flow.svg"
-   inkscape:export-filename="D:\deving-games\Corrupción\client-flow.png"
+   inkscape:export-filename="D:\deving-games\Efectos\client-flow.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="339.8807983398438"
-     inkscape:cy="153.6972930799473"
+     inkscape:cx="334.5390968091675"
+     inkscape:cy="101.8664948289679"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:window-width="1920"
@@ -53,25 +53,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(11.54839405103552,-9.571043200016667)">
+     id="layer2"
+     inkscape:label="background">
     <rect
-       style="opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       transform="scale(0.2645833333333333)"
+       style="opacity:1;vector-effect:none;fill:#f8f9e9;fill-opacity:1;stroke:none;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect4627"
        width="698"
        height="214"
        x="1"
        y="3.544387817382812"
-       transform="matrix(0.2645833333333333,0,0,0.2645833333333333,-11.54839405103552,9.571043200016667)"
        rx="51.48600006103516"
        ry="51.48600006103516" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(11.54839405103552,-9.571043200016667)">
     <g
        id="g4625"
        transform="matrix(0.6150407806615526,0,0,0.6150407806615526,-2.40858488950012,5.721537187532249)">
@@ -208,7 +213,7 @@
            sodipodi:type="star" />
       </g>
       <g
-         style="fill:#d4aa00;stroke:#d4aa00"
+         style="fill:#002ed4;stroke:#002ed4;fill-opacity:1;stroke-opacity:1"
          transform="translate(-95.40715838159178)"
          id="g4548">
         <path
@@ -217,7 +222,7 @@
            inkscape:connector-curvature="0"
            id="path4544"
            d="m 339.9882800132787,230.9123426610768 44.7158070388491,-9e-13"
-           style="opacity:1;vector-effect:none;fill:#d4aa00;fill-opacity:1;stroke:#d4aa00;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+           style="opacity:1;vector-effect:none;fill:#002ed4;fill-opacity:1;stroke:#002ed4;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
         <path
            inkscape:transform-center-x="-0.315503015346132"
            transform="matrix(0.2645833333333333,0,0,0.2645833333333333,-2.599233484292673,0)"
@@ -233,7 +238,7 @@
            sodipodi:cx="387.7541198730469"
            sodipodi:sides="3"
            id="path4546"
-           style="opacity:1;vector-effect:none;fill:#d4aa00;fill-opacity:1;stroke:#d4aa00;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           style="opacity:1;vector-effect:none;fill:#002ed4;fill-opacity:1;stroke:#002ed4;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
            sodipodi:type="star" />
       </g>
       <g
@@ -354,5 +359,94 @@
            inkscape:transform-center-x="-0.6044183837686846" />
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="flow in numbers"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;opacity:1;vector-effect:none;fill:#002ed4;fill-opacity:1;stroke:none;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="27.25"
+       y="77.54438781738281"
+       id="text4527"
+       transform="matrix(0.2645833333333333,0,0,0.2645833333333333,1.785937501884648,9.061979176229513)"><tspan
+         sodipodi:role="line"
+         id="tspan4525"
+         x="27.25"
+         y="77.54438781738281">p(n)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;opacity:1;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="27.25"
+       y="77.54438781738281"
+       id="text4527-9"
+       transform="matrix(0.2645833333333333,0,0,0.2645833333333333,43.86203317106723,29.62927487141846)"><tspan
+         sodipodi:role="line"
+         id="tspan4525-6"
+         x="27.25"
+         y="77.54438781738281">1-p(c)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;opacity:1;vector-effect:none;fill:#008000;fill-opacity:1;stroke:none;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="27.25"
+       y="77.54438781738281"
+       id="text4527-9-3"
+       transform="matrix(0.2645833333333333,0,0,0.2645833333333333,61.68495840592731,7.299854133231563)"><tspan
+         sodipodi:role="line"
+         id="tspan4525-6-0"
+         x="27.25"
+         y="77.54438781738281">p(c)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;opacity:1;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="27.25"
+       y="77.54438781738281"
+       id="text4527-9-6"
+       transform="matrix(0.2645833333333333,0,0,0.2645833333333333,102.0339167818397,28.59881248904113)"><tspan
+         sodipodi:role="line"
+         id="tspan4525-6-6"
+         x="27.25"
+         y="77.54438781738281">p(a<tspan
+   style="font-size:64.9999976158%;baseline-shift:sub"
+   id="tspan4609">1</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;opacity:1;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="27.25"
+       y="77.54438781738281"
+       id="text4527-9-6-9"
+       transform="matrix(0.2645833333333333,0,0,0.2645833333333333,159.2606460088851,28.24691665542855)"><tspan
+         sodipodi:role="line"
+         id="tspan4525-6-6-3"
+         x="27.25"
+         y="77.54438781738281">p(a<tspan
+   style="font-size:64.9999976158%;baseline-shift:sub"
+   id="tspan4609-3">2</tspan>)</tspan></text>
+    <text
+       transform="matrix(0.2645833333333333,0,0,0.2645833333333333,118.7026667693452,8.490479133859778)"
+       id="text4635"
+       y="77.54438781738281"
+       x="27.25"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;opacity:1;vector-effect:none;fill:#008000;fill-opacity:1;stroke:none;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         y="77.54438781738281"
+         x="27.25"
+         id="tspan4633"
+         sodipodi:role="line">t</tspan></text>
+    <text
+       transform="matrix(0.2645833333333333,0,0,0.2645833333333333,118.7026667693452,-8.342312525058872)"
+       id="text4635-6"
+       y="77.54438781738281"
+       x="27.25"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;opacity:1;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:5.9981102943;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       xml:space="preserve"><tspan
+         y="77.54438781738281"
+         x="27.25"
+         id="tspan4633-3"
+         sodipodi:role="line">p(a<tspan
+   style="font-size:64.9999976158%;baseline-shift:sub;fill:#d40000;fill-opacity:1"
+   id="tspan4655">3</tspan>)</tspan></text>
   </g>
 </svg>
